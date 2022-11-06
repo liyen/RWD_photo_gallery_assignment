@@ -1,0 +1,16 @@
+header{
+    text-align: center;
+}
+
+header h1{
+    text-transform: uppercase;
+}
+
+.img-thumbnail{
+    padding: 0.5rem;
+    border: 2px solid #BBBBBB;
+    border-radius: 3%;
+}
+.with-margin{
+    margin-bottom: 20px;
+}
